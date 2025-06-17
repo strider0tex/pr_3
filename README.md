@@ -11,3 +11,5 @@
 1. Установите зависимости:
    ```bash
    npm install
+название бота 
+@pr_zaebalsa_bot
